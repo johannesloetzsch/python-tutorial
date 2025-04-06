@@ -15,6 +15,7 @@
     in rec {
 
       devShells = rec {
+
         default = help;
         help = import ./shell.nix {
           inherit pkgs system devShells;
@@ -26,6 +27,10 @@
         };
 
         example_getting_started_ipython = import ./examples/getting_started/ipython/shell.nix {
+          inherit pkgs;
+        };
+
+        example_tools = import ./examples/tools/shell.nix {
           inherit pkgs;
         };
 

@@ -9,6 +9,7 @@
 - [Tools](tools.md)
   - [JupyterLab (Notebook)](jupyter.md)
   - [Spyder IDE](spyder.md)
+  - [Packaging](packaging.md)
   - [Testing](testing.md)
   - [Linter](linter.md)
   - [Debugger](debugger.md)

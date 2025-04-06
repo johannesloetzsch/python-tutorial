@@ -1,6 +1,6 @@
 # Getting started
 
-> This lecture explains how to install **`python`**, **`pip`** and **`ipython`**.
+This lecture explains how to install **`python`**, **`pip`** and **`ipython`**.
 
 > If you have the [**Nix** package manager](https://nixos.org/download/) with [Flakes](https://nixos.wiki/wiki/flakes), all dependencies are provided by:
 > ```
