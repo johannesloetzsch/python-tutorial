@@ -1,10 +1,11 @@
 # Python Tutorial
 
 This repository contains a tutorial for python beginners.
+The tutorial is served at [https://johannesloetzsch.github.io/python-tutorial](https://johannesloetzsch.github.io/python-tutorial/getting_started.html).
 
-Lectures can be found in the **`doc`** directory.
+Lectures are written in markdown and can be found in the [**`doc`**](https://github.com/johannesloetzsch/python-tutorial/tree/main/doc) directory.
 
-The **`examples`** directory contains the python code samples described in the lectures.
+The [**`examples`**](https://github.com/johannesloetzsch/python-tutorial/tree/main/examples) directory contains the python code samples described in the lectures.
 
 #### Dependencies
 

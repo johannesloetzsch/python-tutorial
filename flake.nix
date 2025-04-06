@@ -30,6 +30,10 @@
           inherit pkgs;
         };
 
+        example_getting_started_turtle = import ./examples/getting_started/turtle/shell.nix {
+          inherit pkgs;
+        };
+
         example_tools = import ./examples/tools/shell.nix {
           inherit pkgs;
         };

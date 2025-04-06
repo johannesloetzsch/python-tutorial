@@ -23,6 +23,9 @@ pkgs.mkShell {
       echo '${devShells.example_getting_started_ipython.meta.description}'
       echo '> nix develop .#example_getting_started_ipython'
       echo
+      echo '${devShells.example_getting_started_turtle.meta.description}'
+      echo '> nix develop .#example_getting_started_turtle'
+      echo
       echo '${devShells.example_tools.meta.description}'
       echo '> nix develop .#example_tools'
       exit
