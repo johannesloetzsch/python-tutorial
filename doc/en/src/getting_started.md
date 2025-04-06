@@ -4,7 +4,7 @@
 
 > If you have the [**Nix** package manager](https://nixos.org/download/) with [Flakes](https://nixos.wiki/wiki/flakes), all dependencies are provided by:
 > ```
-> nix develop .#example_getting_started_ipython
+> nix develop github:johannesloetzsch/python-tutorial#example_getting_started_ipython
 > ```
 
 > For **Debian** this should work:

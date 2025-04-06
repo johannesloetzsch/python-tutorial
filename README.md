@@ -12,7 +12,7 @@ All dependencies and tools used in this tutorial are provided reliably using **[
 
 The simples way to get all you need for this tutorial is just running:
 ```sh
-nix develop
+nix develop github:johannesloetzsch/python-tutorial
 ```
 
 Alternatively each chapter provides links how to install the required dependencies in the legacy way.

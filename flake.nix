@@ -28,6 +28,12 @@
         example_getting_started_ipython = import ./examples/getting_started/ipython/shell.nix {
           inherit pkgs;
         };
+
+      };
+      packages = {
+        ci = import ./.github/workflows/default.nix {
+          inherit pkgs;
+        };
       };
 
     }
