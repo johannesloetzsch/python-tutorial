@@ -12,6 +12,7 @@
   - [Packaging](packaging.md)
   - [Testing](testing.md)
   - [Linter](linter.md)
+  - [Typing](typing.md)
   - [Debugger](debugger.md)
 - [CLI](cli.md)
 - [GUI](gui.md)
